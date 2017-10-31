@@ -1,0 +1,31 @@
+name: Tess's Blog
+description: >
+    Tess's Technical Writing Blog
+about: >
+    I am a 2017 graduate from Drexel University with a master's degree in computer science. I am trying to start developing a blog where I share all the things I learn at work. Hopefully somebody finds some of this useful :) tessmichi is the alias I use online for public facing social media and for gaming
+
+master_repo: false
+url: "https://tessmichi.com"
+markdown: kramdown
+highlighter: rouge
+
+plugins: ['jekyll-paginate', 'jekyll-gist']
+
+paginate: 3
+
+logo:             logo.png
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           tessmichi
+  avatar:         ""
+  email:          "tess.distefano@gmail.com"
+  twitter: tessmichi
+  github: tessmichi
+  stackexchange:
+  google_plus:
+
+google_analytics:
+google_verify:
+bing_verify:
